@@ -1,0 +1,23 @@
+.container {
+  margin-top: 20px;
+}
+
+h1,
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 1.5rem;
+}
+
+.button-container {
+  text-align: center;
+}
+
+.table-actions {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+}

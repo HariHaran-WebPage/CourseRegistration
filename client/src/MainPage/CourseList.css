@@ -1,0 +1,34 @@
+.course-card {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s;
+}
+
+.course-card:hover {
+  transform: scale(1.02);
+}
+
+.course-card h2 {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.course-card p {
+  font-size: 1rem;
+  color: #666;
+}
+
+.course-card .btn {
+  margin-top: 1rem;
+}
+
+.modal-header {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.modal-title {
+  color: #fff;
+}

@@ -1,0 +1,42 @@
+/* App.css */
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.content-wrap {
+  flex: 1;
+}
+
+footer {
+  background-color: #343a40;
+  color: white;
+  padding: 1rem 0;
+  width: 100%;
+}
+
+footer a {
+  color: white;
+  margin-right: 10px;
+}
+
+footer a:hover {
+  text-decoration: none;
+  color: #f8f9fa;
+}
+
+footer .fab {
+  font-size: 1.5rem;
+}
+
+footer p {
+  margin: 0;
+}

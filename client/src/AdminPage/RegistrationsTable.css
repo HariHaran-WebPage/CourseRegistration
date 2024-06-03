@@ -1,0 +1,27 @@
+.container {
+  margin-top: 20px;
+}
+
+.table {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.table th,
+.table td {
+  vertical-align: middle;
+}
+
+.table-actions {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.modal-body .form-group {
+  margin-bottom: 1rem;
+}
+
+button.ml-2 {
+  margin-left: 0.5rem;
+}
